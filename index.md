@@ -65,7 +65,7 @@ __Philosophie & Langue, littérature et civilisation arabes, Bachelor, Universit
 `2023-Présent`
 **Chargé de projet**, *Porteous*, Genève
 
-- Membre de différents groupe de travail pour la programmation culturelle, les questions de gouvernance et de la stratégie du projet
+- Membre de différents groupes de travail pour la programmation culturelle, la stratégie de gouvernance et d'intégration dans le tissus associatif communal
 - Membre du voyage et du groupe d'étude sur le savoir-faire des tiers lieux bruxellois et les possibilités de transfert à Genève
 
 `2019-2022`
