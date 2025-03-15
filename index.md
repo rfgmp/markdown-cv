@@ -40,21 +40,21 @@ __Philosophie et Langue Arabe, Université de Genève__
 ## Expérience
 
 `2022-Présent`
-Product Owner, *Berney Associés SA*, Genève
+__Product Owner, *Berney Associés SA*, Genève__
 
 `2022`
-Assistant-Étudiant, *Haute École de Gestion de Fribourg*, Fribourg
+__Assistant-Étudiant, *Haute École de Gestion de Fribourg*, Fribourg__
 
 - Pour le cours "Probabilité" (Ba), réaliser des exercices interactifs sur JupyterLab  (Python, Ipywidgets, Matplotlib)
 
 `2020-2022`
-Assistant-Étudiant, *Université de Neuchâtel*, Neuchâtel
+__Assistant-Étudiant, *Université de Neuchâtel*, Neuchâtel__
 
 - Pour le cours "Marketing Sociale pour l'innovation sociale" (Ma)
 - Pour les cours "Marketing" et "Customer Behavior" (Ba)
 
 `2020-2021`
-Collaborateur Scientifique, *Université de Neuchâtel*, Neuchâtel
+__Collaborateur Scientifique, *Université de Neuchâtel*, Neuchâtel__
 
 - Pour un projet d'innovation pédagogique
   
