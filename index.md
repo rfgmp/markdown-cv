@@ -1,91 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Roman Gampert's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Roman Gampert
+Chargé de projet, Consultant innovation, Product Owner.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="roman@gampert.ch">roman@gampert.ch</a>
+| <a href="https://www.linkedin.com/in/roman-gampert-5537b9126/">Mon profil LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Product Owner chez Berney Associés SA
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Coordination de projet, analyse des besoins métiers, gestion du backlog
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+AI, Innovation management, Gestion du changement, Design Thinking, Open Source
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2022`
+__Innovation - R&D Management, Master, Université de Neuchâtel__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 5.43
+  
+`2019`
+__Passerelle pour le Master, Université de Neuchâtel__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2014 - 2018`
+__Philosophie et Langue Arabe, Université de Genève__
 
 
+## Expérience
 
-## Awards
+`2022-Présent`
+Product Owner, *Berney Associés SA*, Genève
 
-`2012`
-President, *Royal Society*, London, UK
+`2022`
+Assistant-Étudiant, *Haute École de Gestion de Fribourg*, Fribourg
 
-Associate, *French Academy of Science*, Paris, France
+- Réaliser des exercices interactifs sur JupyterLab pour les étudiants en Bachelor du cours de probabilité (Python, Ipywidgets, Matplotlib)
 
+`2020-2022`
+Assistant-Étudiant, *Université de Neuchâtel*, Neuchâtel
 
+- Pour le cours "Marketing Sociale pour l'innovation sociale" (Ma)
+- Pour les cours "Marketing" et "Customer Behavior" (Ba)
 
-## Publications
+`2020-2021`
+Collaborateur Scientifique, *Université de Neuchâtel*, Neuchâtel
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Pour un projet d'innovation pédagogique
+  
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Màj: Mars 2024 -->
 
 
