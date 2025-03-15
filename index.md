@@ -3,26 +3,26 @@ layout: cv
 title: Roman Gampert's CV
 ---
 # Roman Gampert
-Chargé de projet, Consultant innovation, Product Owner.
+Chargé de projet, Consultant innovation, Product Owner
 
 <div id="webaddress">
 <a href="roman@gampert.ch">roman@gampert.ch</a>
 | <a href="https://www.linkedin.com/in/roman-gampert-5537b9126/">Mon profil LinkedIn</a>
 </div>
 
-## Currently
+## Actuellement
 
 Product Owner chez Berney Associés SA
 
-### Specialized in
+### Spécialités
 
 Coordination de projet, analyse des besoins métiers, gestion du backlog
 
-### Interests
+### Interêts
 
 AI, Innovation management, Gestion du changement, Design Thinking, Open Source
 
-## Education
+## Formation
 
 `2019-2022`
 __Innovation Management, Master, Université de Neuchâtel__
@@ -60,7 +60,20 @@ __Philosophie & Langue, littérature et civilisation arabes, Bachelor, Universit
 
 - Concevoir des activités pour un cours en comodal
 
-## Skills
+## Engagement
+
+`2023-Présent`
+**Chargé de projet**, *Porteous*, Genève
+
+- Membre de différents groupe de travail pour la programmation culturelle, les questions de gouvernance et de la stratégie du projet
+- Membre du voyage et du groupe d'étude sur le savoir-faire des tiers lieux bruxellois et les possibilités de transfert à Genève
+
+`2019-2022`
+**Chargé de projet**, *Semaine de la durabilité*, Neuchâtel
+
+- Conception et animation d'un atelier de Design Thinking autours des enjeux de durabilité locaux
+
+## Compétences
 
 - **Innovation** : Design Thinking, Social Marketing, Computational Thinking, System Thinking
 - **Management** : Retro planning, Diagramme de flux, Leadership, Lean startup
@@ -69,13 +82,13 @@ __Philosophie & Langue, littérature et civilisation arabes, Bachelor, Universit
 - **Compétences analytiques** : Data analysis, Machine Learning, Linear Programming, Business Analytics
 - **Azure DevOps** : Boards, Wiki
 
-## Languages
+## Langues
 
 - Français (langue maternelle)
 - Anglais (C1)
 - Allemand (B1)
 
-## Centres d'intérêt
+## Hobbies
 
 - Jazz, Piano, Composition
 - Méditation, Cinéma, Sciences
