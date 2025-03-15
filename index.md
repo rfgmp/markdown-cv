@@ -45,7 +45,7 @@ Product Owner, *Berney Associés SA*, Genève
 `2022`
 Assistant-Étudiant, *Haute École de Gestion de Fribourg*, Fribourg
 
-- Réaliser des exercices interactifs sur JupyterLab pour les étudiants en Bachelor du cours de probabilité (Python, Ipywidgets, Matplotlib)
+- Pour le cours "Probabilité" (Ba), réaliser des exercices interactifs sur JupyterLab  (Python, Ipywidgets, Matplotlib)
 
 `2020-2022`
 Assistant-Étudiant, *Université de Neuchâtel*, Neuchâtel
