@@ -14,11 +14,11 @@ Chargé de projet, Consultant innovation, Product Owner
 
 Product Owner chez Berney Associés SA
 
-### Spécialités
+## Spécialités
 
 Coordination de projet, analyse des besoins métiers, gestion du backlog
 
-### Interêts
+## Interêts
 
 AI, Innovation management, Gestion du changement, Design Thinking, Open Source
 
@@ -65,13 +65,13 @@ __Philosophie & Langue, littérature et civilisation arabes, Bachelor, Universit
 `2023-Présent`
 **Chargé de projet**, *Porteous*, Genève
 
-- Membre de différents groupes de travail pour la programmation culturelle, la stratégie de gouvernance et d'intégration dans le tissus associatif communal
-- Membre du voyage et du groupe d'étude sur le savoir-faire des tiers lieux bruxellois et les possibilités de transfert à Genève
+- Contribuer aux GT pour la programmation culturelle, la stratégie de gouvernance et d'intégration dans le tissus associatif communal
+- Représenter Porteous en visite à des tiers lieux Bruxelles et contribuer au groupe d'étude inter-disciplinaire sur le savoir-faire des tiers lieux bruxellois et les possibilités de transfert à Genève
 
 `2019-2022`
 **Chargé de projet**, *Semaine de la durabilité*, Neuchâtel
 
-- Conception et animation d'un atelier de Design Thinking autours des enjeux de durabilité locaux
+- Concevoier et animer un atelier de Design Thinking autours des enjeux de durabilité locaux
 
 ## Compétences
 
