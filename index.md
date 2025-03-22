@@ -20,7 +20,7 @@ Coordination de projet, analyse des besoins métiers, gestion du backlog
 
 ## Interêts
 
-AI, Innovation management, Gestion du changement, Design Thinking, Open Source
+Innovation sociale, AI, Innovation management, Gestion du changement, Design Thinking, Open Source
 
 ## Formation
 
